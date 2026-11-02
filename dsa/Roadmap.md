@@ -236,6 +236,8 @@
 - Peek
 - Python list as stack
 - `collections.deque`
+- Stack Overflow and Stack Underflow
+- Applications of Stack
 
 ## 6.2 Algorithms / Techniques
 
@@ -249,8 +251,10 @@
 
 - Monotonic stack
 - Matching pairs
-- Previous greater/smaller
-- Next greater/smaller
+- Previous greater element
+- Previous smaller element
+- Next greater element
+- Next smaller element
 - Stack for nested structures
 - Stack + greedy
 
