@@ -1,0 +1,133 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Employee Management Report</title>
+</head>
+<body>
+
+    <header>
+        <h1>Employee Management System</h1>
+        <p>Employee details and department report.</p>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Employee Details</h2>
+
+            <table border="1">
+
+                <caption>Employee Information - 2026</caption>
+
+                <!-- Table Header -->
+                <thead>
+                    <tr>
+                        <th scope="col">Employee ID</th>
+                        <th scope="col">Employee Name</th>
+                        <th scope="col">Department</th>
+                        <th scope="col">Designation</th>
+                        <th scope="col">Salary</th>
+                    </tr>
+                </thead>
+
+                <!-- Table Body -->
+                <tbody>
+                    <tr>
+                        <td>101</td>
+                        <td>Rajesh Kumar</td>
+                        <td>IT</td>
+                        <td>Software Developer</td>
+                        <td>50000</td>
+                    </tr>
+
+                    <tr>
+                        <td>102</td>
+                        <td>Priya Sharma</td>
+                        <td>HR</td>
+                        <td>HR Manager</td>
+                        <td>60000</td>
+                    </tr>
+
+                    <tr>
+                        <td>103</td>
+                        <td>Arun Reddy</td>
+                        <td>Finance</td>
+                        <td>Accountant</td>
+                        <td>45000</td>
+                    </tr>
+
+                    <tr>
+                        <td>104</td>
+                        <td>Sneha Rao</td>
+                        <td>IT</td>
+                        <td>Frontend Developer</td>
+                        <td>55000</td>
+                    </tr>
+                </tbody>
+
+                <!-- Table Footer -->
+                <tfoot>
+                    <tr>
+                        <th colspan="4" scope="row">Total Salary</th>
+                        <td>210000</td>
+                    </tr>
+                </tfoot>
+
+            </table>
+
+        </section>
+
+        <br>
+
+        <!-- Example of Rowspan -->
+        <section>
+            <h2>Department Summary</h2>
+
+            <table border="1">
+
+                <caption>Employees by Department</caption>
+
+                <thead>
+                    <tr>
+                        <th scope="col">Department</th>
+                        <th scope="col">Employee Name</th>
+                        <th scope="col">Role</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <th scope="rowgroup" rowspan="2">IT</th>
+                        <td>Rajesh Kumar</td>
+                        <td>Software Developer</td>
+                    </tr>
+
+                    <tr>
+                        <td>Sneha Rao</td>
+                        <td>Frontend Developer</td>
+                    </tr>
+
+                    <tr>
+                        <th scope="row">HR</th>
+                        <td>Priya Sharma</td>
+                        <td>HR Manager</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Employee Management System.</p>
+    </footer>
+
+</body>
+</html>

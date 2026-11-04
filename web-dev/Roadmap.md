@@ -5,11 +5,12 @@
 Before learning React or Next.js, understand how the web works.
 
 **HTML5**
+- HTML Tags
+- HTML document structure
 - Semantic HTML
 - Forms and inputs
 - Tables
 - Accessibility basics
-- HTML document structure
 
 **CSS3**
 - Selectors
