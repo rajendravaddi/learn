@@ -1,0 +1,104 @@
+
+/* General styling */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f6f9;
+}
+
+/* Header and footer */
+header,
+footer {
+    background-color: #2563eb;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Main content */
+main {
+    max-width: 1100px;
+    margin: 30px auto;
+    padding: 0 15px;
+}
+
+/* Table sections */
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+}
+
+/* Section headings */
+h2 {
+    color: #2563eb;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    background-color: white;
+}
+
+/* Table caption */
+caption {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px;
+    color: #1e293b;
+}
+
+/* Table headers and cells */
+th,
+td {
+    border: 1px solid #cbd5e1;
+    padding: 12px;
+    text-align: left;
+}
+
+/* Table header */
+thead {
+    background-color: #2563eb;
+    color: white;
+}
+
+/* Table footer */
+tfoot {
+    background-color: #dbeafe;
+    font-weight: bold;
+}
+
+/* Alternate row colors */
+tbody tr:nth-child(even) {
+    background-color: #f1f5f9;
+}
+
+/* Hover effect */
+tbody tr:hover {
+    background-color: #dbeafe;
+}
+
+/* Responsive table */
+@media (max-width: 600px) {
+    table {
+        font-size: 13px;
+    }
+
+    th,
+    td {
+        padding: 7px;
+    }
+
+    section {
+        padding: 10px;
+    }
+}

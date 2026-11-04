@@ -13,13 +13,16 @@ Before learning React or Next.js, understand how the web works.
 - Accessibility basics
 
 **CSS3**
-- Selectors
+- CSS Fundamentals
+- Colors, Units and Typography
 - Box model
+- Displaying and positioning
 - Flexbox
 - CSS Grid
 - Responsive design
-- Media queries
-- Animations
+- Visual Styling
+- Transistions and Animations
+- Modern CSS Essentials
 
 **JavaScript**
 - Variables and data types
