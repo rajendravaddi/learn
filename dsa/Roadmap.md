@@ -260,31 +260,43 @@
 
 ---
 
-# 7. Queue and Deque
+# 7. Queue
 
 ## 7.1 Data Structures
 
-- Queue
-- FIFO
-- Circular queue
-- Deque
-- Priority queue introduction
+- Definitions
+  - Queue
+  - FIFO
+  - Front and Rear
+  - Enqueue
+  - Dequeue
+  - Peek / Front
+  - IsEmpty and IsFull
+  - Queue Overflow and Underflow
+- Types of Queues
+  - Linear Queue
+  - Circular queue
+  - Deque
+  - Priority queue introduction
+- Queue Implementations
+  - Python List
+  - collections.deque
+  - Linked List
+  - queue.Queue
+- Queue Operations and complexity
+- Applications of Queue
 
 ## 7.2 Algorithms
 
-- Queue traversal
-- BFS
-- Level-order traversal
-- Sliding-window maximum
-
-## 7.3 Patterns
-
-- BFS
-- Monotonic deque
-- Sliding window + deque
-- Producer/consumer concept
-- Multi-source BFS
-
+- Queue Traversal
+- Queue Reversal
+- Reverse First K Elements of a Queue
+- Interleaving First and Second Halves of a Queue
+- Generate Binary Numbers Using Queue
+- Queue Simulation
+- Basic Task Scheduling
+- Producer-Consumer Concept
+- Buffering and Message Queue Basics
 
 ---
 
