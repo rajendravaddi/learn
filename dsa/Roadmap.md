@@ -328,14 +328,11 @@
 
 # 9. Sorting
 
-## 9.1 Basic Algorithms
+## 9.1 Algorithms
 
 - Bubble sort
 - Selection sort
 - Insertion sort
-
-## 9.2 Important Algorithms
-
 - Merge sort
 - Quick sort
 - Heap sort
@@ -343,7 +340,7 @@
 - Radix sort
 - Bucket sort
 
-## 9.3 Concepts
+## 9.2 Concepts
 
 - Stable sorting
 - In-place sorting
@@ -351,16 +348,6 @@
 - Divide and conquer
 - Partitioning
 - Custom comparators
-
-## 9.4 Patterns
-
-- Sort + two pointers
-- Sort + greedy
-- Sort + scanning
-- Sort intervals
-- Custom sorting
-- Coordinate compression
-
 
 ---
 
