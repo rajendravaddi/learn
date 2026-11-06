@@ -387,9 +387,6 @@
 
 ## 11.2 Patterns
 
-- Subsets
-- Permutations
-- Combinations
 - Choose/skip
 - Constraint satisfaction
 - Grid backtracking
