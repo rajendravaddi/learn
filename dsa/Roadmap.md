@@ -435,22 +435,23 @@
 
 ## 13.1 Data Structure
 
-- BST property
-- Search
-- Insert
-- Delete
-- Minimum
-- Maximum
-- Predecessor
-- Successor
+- Binary Search Tree
+- BST Structure
+- Important BST Rules
+- BST vs Binary Tree
+- Why Do We Need BST
+- BST Height and Complexity
 
 ## 13.2 Algorithms
 
 - BST search
 - BST insertion
+- BST Minimum and Maximum
 - BST deletion
 - Inorder traversal
 - Validate BST
+- Inorder Predecessor
+- Inorder Successor
 
 ## 13.3 Patterns
 
