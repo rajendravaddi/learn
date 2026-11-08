@@ -411,17 +411,16 @@
 
 ## 12.2 Traversal Algorithms
 
+- Introduction to Tree Traversal
 - Preorder
 - Inorder
 - Postorder
 - Level-order
-- Recursive traversal
-- Iterative traversal
+- Recursive vs Iterative Traversal
+
 
 ## 12.3 Patterns
 
-- DFS
-- BFS
 - Recursive tree processing
 - Bottom-up recursion
 - Top-down recursion
