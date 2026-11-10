@@ -464,17 +464,20 @@
 
 ---
 
-# 14. Heap / Priority Queue
+# 14. Heap
 
 ## 14.1 Data Structure
 
+- Introduction to Heap
+- Complete Binary Tree
+- Binary heap
 - Min heap
 - Max heap
-- Binary heap
 - Heapify
 - Insert
 - Extract
 - Peek
+- Python's Built-in Heap Implementation
 
 ## 14.2 Algorithms
 
@@ -483,15 +486,6 @@
 - Kth largest/smallest
 - Top-K elements
 - Merge K sorted structures
-
-## 14.3 Patterns
-
-- Top K
-- K-way merge
-- Two heaps
-- Heap + greedy
-- Running median
-- Scheduling
 
 ---
 
