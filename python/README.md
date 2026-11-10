@@ -1,0 +1,23 @@
+# Index
+
+- 1_print_file.txt
+- 2_data_types_and_variables.ipynb
+- 3_operators.ipynb
+- 4_strings.ipynb
+- 5_lists.ipynb
+- 6_tuples.ipynb
+- 7_dict.ipynb
+- 8_sets.ipynb
+- 9_conditional.ipynb
+- 10_loops.ipynb
+- 11_functions.ipynb
+- 12_exception_handling.ipynb
+- 13_file_handling
+    - 13_file_handling.ipynb
+- 14_virtual_environments
+    - 1_virtual_environment.md
+    - 2_venv.md
+    - 3_uv.md
+- 15_iterators.ipynb
+- 16_generators.ipynb
+- 17_decorators.ipynb
