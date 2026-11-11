@@ -21,3 +21,5 @@
 - 15_iterators.ipynb
 - 16_generators.ipynb
 - 17_decorators.ipynb
+- modules
+    - heapq_practice.ipynb (heapq)
