@@ -516,35 +516,34 @@
 
 ## 16.1 Data Structure
 
-- Graph terminology
-- Vertex
-- Edge
-- Directed graph
-- Undirected graph
-- Weighted graph
-- Unweighted graph
-- Adjacency matrix
-- Adjacency list
-- Edge list
+- What is a Graph?
+- Vertex and Edge
+- Directed and Undirected Graphs
+- Weighted and Unweighted Graphs
+- Graph Representation
+  - Adjacency matrix
+  - Adjacency list
+  - Edge list
+- Comparing Graph Representations
+- Degree, In-degree and Out-degree
 
 ## 16.2 Traversal Algorithms
 
+- What is Graph Traversal?
 - DFS
-- BFS
-- Iterative DFS
 - Recursive DFS
+- Iterative DFS
+- BFS
+- DFS vs BFS
 - Connected components
 
 ## 16.3 Patterns
 
-- Visited set
 - Grid as graph
-- Multi-source BFS
 - BFS shortest path
-- DFS components
+- Multi-source BFS
 - Cycle detection
 - State graph
-
 
 ---
 
