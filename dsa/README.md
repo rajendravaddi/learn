@@ -551,27 +551,34 @@
 
 ## 17.1 Algorithms
 
-- Topological sort
-- Kahn's algorithm
-- DFS topological sort
-- Cycle detection
-- Dijkstra
-- Bellman-Ford
-- Floyd-Warshall
+- DAG Fundamentals
+  - Directed Acyclic Graph
+  - Properties and applications of DAGs
+- Topological Sorting
+  - Topological sort
+  - Kahn's algorithm
+  - DFS-based topological sort
+- Shortest Path Algorithms
+  - Weighted graphs
+  - Edge relaxation
+  - Dijkstra's algorithm
+  - Bellman-Ford algorithm
+  - Floyd-Warshall algorithm
+  - 0-1 BFS
 - Minimum Spanning Tree
-- Kruskal
-- Prim
+  - Spanning tree
+  - Minimum spanning tree
+  - Kruskal's algorithm
+  - Prim's algorithm
 
 ## 17.2 Patterns
 
+- Dependency Ordering
 - DAG + DP
-- Dependency ordering
-- Shortest path
-- Multi-source shortest path
-- Union-Find + graph
-- Weighted BFS
-- Graph + heap
-
+- Shortest Path Problem-Solving
+- Graph + Heap
+- Multi-source Shortest Path
+- Weighted Graph Traversal (0-1 BFS applications)
 
 ---
 
