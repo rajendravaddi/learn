@@ -624,22 +624,17 @@
 
 ### 1D DP
 
-- Fibonacci-style DP
-- Climbing stairs
 - House robber
 
 ### 2D DP
 
 - Grid DP
-- Unique paths
-- Minimum path sum
 
 ### Knapsack
 
 - 0/1 knapsack
 - Unbounded knapsack
 - Subset sum
-- Partition problems
 
 ### String DP
 
