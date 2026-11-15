@@ -1,4 +1,4 @@
-# 17.2 Graph Problem-Solving Patterns
+# Graph Problem-Solving Patterns
 
 # 1. Dependency Ordering
 
@@ -1242,9 +1242,9 @@ finish[v] = earliest completion time of task v
 
 For every task:
 
-\[
+$$
 finish[v] = duration[v] + \max(finish[u])
-\]
+$$
 
 where u represents all prerequisites of v.
 

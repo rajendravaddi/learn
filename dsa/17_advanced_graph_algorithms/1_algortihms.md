@@ -1,4 +1,4 @@
-# 17. Advanced Graph Algorithms
+# Advanced Graph Algorithms
 
 ## 1. DAG Fundamentals
 
@@ -2040,13 +2040,7 @@ A spanning tree is a subgraph of a connected, undirected graph that:
 2. Is connected.
 3. Contains no cycles.
 
-For a graph containing V vertices, every spanning tree contains exactly:
-
-$$
-V - 1
-$$
-
-edges.
+For a graph containing V vertices, every spanning tree contains exactly: $V - 1$ edges.
 
 #### Example
 
@@ -2054,8 +2048,8 @@ Consider:
 
 ```text
 A ----- B
-| \     |
-|  \    |
+|  \   |
+|    \ |
 C ----- D
 ```
 
