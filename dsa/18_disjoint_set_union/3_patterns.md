@@ -1,4 +1,3 @@
-
 # Patterns
 
 This is where DSU becomes particularly useful in graph problems.
