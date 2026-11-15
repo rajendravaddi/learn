@@ -674,9 +674,7 @@
 
 ## 20.2 Algorithms / Techniques
 
-- Prefix matching
 - Autocomplete
-- Word lookup
 - Dictionary matching
 
 ## 20.3 Patterns
