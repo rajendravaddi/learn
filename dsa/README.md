@@ -699,6 +699,7 @@
 - Left shift
 - Right shift
 - Signed integers
+- Operator Precedence in Python
 
 ## 21.2 Techniques
 
@@ -711,11 +712,3 @@
 - Power of two
 - XOR tricks
 - Bit masks
-
-## 21.3 Patterns
-
-- XOR cancellation
-- Bitmask subsets
-- State compression
-- Power-of-two checks
-- Unique element problems
