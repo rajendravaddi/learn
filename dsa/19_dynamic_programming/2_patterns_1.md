@@ -124,12 +124,12 @@ Input:
 nums = [2, 7, 9, 3, 1]
 ```
 
-| i | House | Rob Current | Skip Current | dp[i] |
+| i | House | Rob Current (dp[i-2] + nums[i]) | Skip Current (dp[i-1]) | dp[i] |
 |---|---:|---:|---:|---:|
 | 0 | 2 | - | - | 2 |
 | 1 | 7 | - | - | 7 |
 | 2 | 9 | 2 + 9 = 11 | 7 | 11 |
-| 3 | 3 | 2 + 3 = 5 | 11 | 11 |
+| 3 | 3 | 7 + 3 = 10 | 11 | 11 |
 | 4 | 1 | 11 + 1 = 12 | 11 | 12 |
 
 Final DP array:
