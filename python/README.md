@@ -1,6 +1,6 @@
 # Index
 
-- 1_print_file.txt
+- 1_print_input.ipynb
 - 2_data_types_and_variables.ipynb
 - 3_operators.ipynb
 - 4_strings.ipynb
@@ -23,3 +23,4 @@
 - 17_decorators.ipynb
 - modules
     - heapq_practice.ipynb (heapq)
+    - deque_practice.ipynb (deque)
