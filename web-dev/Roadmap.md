@@ -28,17 +28,19 @@ Before learning React or Next.js, understand how the web works.
 - Variables and data types
 - Functions
 - Objects and arrays
-- ES6+
+- Map, Set, WeakMap and WeakSet
 - Destructuring
 - Spread and rest operators
-- Array methods: map, filter, reduce
-- Promises
-- Async/await
+- Array methods: map, filter, reduce, flatMap
 - Closures
+- Classes and prototypes
 - Modules
 - Error handling
+- Event loop and asynchronous JavaScript
+- Promises
+- Async/await
 - Fetch API
-- DOM manipulation
+- DOM manipulation and event handling
 
 **TypeScript**
 - Basic types
