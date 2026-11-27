@@ -25,7 +25,8 @@ Before learning React or Next.js, understand how the web works.
 - Modern CSS Essentials
 
 **JavaScript**
-- Variables and data types
+- Variables
+- data types
 - Functions
 - Objects and arrays
 - Map, Set, WeakMap and WeakSet
@@ -35,10 +36,7 @@ Before learning React or Next.js, understand how the web works.
 - Closures
 - Classes and prototypes
 - Modules
-- Error handling
-- Event loop and asynchronous JavaScript
-- Promises
-- Async/await
+- asynchronous JavaScript and Error handling
 - Fetch API
 - DOM manipulation and event handling
 
@@ -51,28 +49,6 @@ Before learning React or Next.js, understand how the web works.
 - Utility types
 - Type narrowing
 
-**Web Fundamentals**
-- HTTP and HTTPS
-- Request and response
-- HTTP methods
-- Status codes
-- REST APIs
-- JSON
-- Cookies and sessions
-- CORS
-
-**Git and GitHub**
-- Git basics
-- Branches
-- Commits
-- Merging
-- Pull requests
-- GitHub repositories
-
-Projects:
-1. Responsive portfolio website.
-2. JavaScript task manager.
-3. Weather application using an external API.
 
 ### Phase 2: React
 
