@@ -96,57 +96,6 @@ console.log(document.documentElement);
 | `navigator` | Browser and device capabilities |
 | `history` | Browser navigation history |
 
-### 1.4 Setting Up the Learning Environment
-
-Unlike previous topics, DOM examples must run in a browser rather than directly through Node.js.
-
-Create the following files:
-
-```text
-dom-learning/
-├── index.html
-└── index.js
-```
-
-**index.html**
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DOM Learning</title>
-</head>
-<body>
-    <h1 id="heading">DOM Learning</h1>
-
-    <div id="container"></div>
-
-    <button id="button">Click me</button>
-
-    <script type="module" src="./index.js"></script>
-</body>
-</html>
-```
-
-**index.js**
-
-```javascript
-console.log(document.title);
-console.log(document.body);
-```
-
-Start a local server:
-
-```bash
-python3 -m http.server 8000
-```
-
-Open `http://localhost:8000` and use the browser's Developer Tools console to view the output.
-
-Module scripts are deferred by default, allowing the HTML document to be parsed before the script executes.
-
 ---
 
 ## 2. Selecting and Traversing Elements
